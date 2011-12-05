@@ -12,3 +12,4 @@ TODO
 * Way to determine defaults values (and objects like default FeedReader) without save it in each single subscription file.
 * Write a new FeedReader from zero to avoid issues with .Net client (Amnesty International Feed?) and possible issues in custom Mono sources adaptation.
 * Clean json files to avoid write default or redundant values like TockTo field when the file is not locked.
+* Unit Tests
