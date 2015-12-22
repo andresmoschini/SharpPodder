@@ -8,3 +8,4 @@
 *.user
 project.lock.json
 artifacts/
+.vs/
