@@ -1,7 +1,10 @@
 *.pidb
 *~
 *.userprefs
-*/bin/*
-*/obj/*
+**/bin/**
+**/obj/**
+**/packages/**
 *.suo
 *.user
+project.lock.json
+artifacts/
